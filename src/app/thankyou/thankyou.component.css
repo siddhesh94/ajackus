@@ -1,0 +1,11 @@
+.img-fluid {
+  width: 60%;
+  height: 60%;
+  margin: auto;
+  display: block;
+  margin-bottom: 20px;
+}
+h1 {
+  color: red;
+  font-weight: bold;
+}
